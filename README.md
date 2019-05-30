@@ -5,7 +5,7 @@ Ejemplo, dentro de un array [1, 2, 3, 6, 8, 10, 11, 13], encontrar valor del num
 Nota: no utilizar las funciones predeterminadas como indexOf(), list.index(), etc.
 Utilizar cualquier lenguaje de programacion
 
-##Segundo
+## Segundo
 Problema de Fibonacci:
 En matemáticas, la sucesión o serie de Fibonacci hace referencia a la secuencia ordenada de números descrita por Leonardo de Pisa, matemático italiano del siglo XIII:
 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144,…
