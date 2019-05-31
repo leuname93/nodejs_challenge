@@ -3,7 +3,6 @@
 Encuentra de forma optima el indice de un numero dentro de un array ordenado.
 Ejemplo, dentro de un array [1, 2, 3, 6, 8, 10, 11, 13], encontrar valor del numero 10 seria el indice 5. Crea una funcion que proporcione el valor del indice.
 Nota: no utilizar las funciones predeterminadas como indexOf(), list.index(), etc.
-Utilizar cualquier lenguaje de programacion
 
 ## Segundo
 Problema de Fibonacci:
