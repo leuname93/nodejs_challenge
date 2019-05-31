@@ -19,7 +19,7 @@ Indice 10: numero fib = 55
 
 NodeJS:
 Crear API Post '/fib' que acepte el indice solicitado para el numero Fibonacci. 
-Crear funcion que encuentre el valor del numero fibonacci dado un indice que se proveera desde el frontend. No es necesario utilizar bases de datos y regrese el valor del fibonacci y el tiempo que tardo en encontrar el valor.
+Crear funcion que encuentre el valor del numero fibonacci dado un indice. No es necesario utilizar bases de datos y regrese el valor del fibonacci y el tiempo que tardo en encontrar el valor.
 
 
 
